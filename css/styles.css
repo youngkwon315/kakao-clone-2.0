@@ -5,7 +5,10 @@
 @import "friend.css";
 @import "friends.css";
 @import "find.css";
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap");
+@import "more.css";
+@import "settings.css";
+@import "chat.css";
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300:400,600&display=swap");
 
 * {
   box-sizing: border-box;
